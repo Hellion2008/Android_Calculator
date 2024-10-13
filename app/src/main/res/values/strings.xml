@@ -2,6 +2,6 @@
     <string name="app_name">Calculator</string>
     <string name="titleTV">Калькулятор</string>
     <string name="resultTV">Результат</string>
-    <string name="resetBTN">Reset</string>
-    <string name="exitBTN">Exit</string>
+    <string name="reset">Reset</string>
+    <string name="exit">Exit</string>
 </resources>
