@@ -1,7 +1,8 @@
 <resources>
     <string name="app_name">Calculator</string>
     <string name="titleTV">Калькулятор</string>
-    <string name="resultTV">Результат</string>
-    <string name="reset">Reset</string>
+    <string name="resultTV">result</string>
+    <string name="reset">reset</string>
     <string name="exit">Exit</string>
+    <string name="hint_input_text_view">input</string>
 </resources>
